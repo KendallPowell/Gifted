@@ -26,11 +26,4 @@ export class Gift {
             `
     }
   }
-
-  //   computeAccess() {
-  //     if (this.opened == true){
-
-  //     }
-  //   }
-
 }
